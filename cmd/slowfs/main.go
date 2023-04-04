@@ -8,7 +8,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/alecthomas/kingpin.v2"
-	slowfuse "github.com/gurupras/slow-fuse"
+	"github.com/gurupras/slowfuse"
 )
 
 var (

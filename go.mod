@@ -1,4 +1,4 @@
-module github.com/gurupras/slow-fuse
+module github.com/gurupras/slowfuse
 
 go 1.18
 
